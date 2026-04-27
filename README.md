@@ -1,7 +1,23 @@
-## BAIKTRASO2
-## Họ & tên: Nguyễn Đăng Thịnh
-## Lớp: K59KMT.K01  
-## MSSV: K235480106069
+# BÀI KIỂM TRA SỐ 2
+
+## Thông tin sinh viên
+- Họ tên: Nguyễn Đăng Thịnh
+- MSSV: K235480106069
+- Lớp: K59KMT.K01
+
+## Yêu cầu bài toán
+Xây dựng hệ thống quản lý bán hàng gồm:
+- Tạo database và các bảng (KhachHang, SanPham, HoaDon)
+- Thêm dữ liệu mẫu
+- Xây dựng các Function
+- Xây dựng Stored Procedure
+- Xây dựng Trigger
+
+## Cách thực hiện
+- Sử dụng SQL Server để tạo database và các bảng
+- Áp dụng các ràng buộc khóa chính, khóa ngoại
+- Sử dụng JOIN để xử lý dữ liệu giữa các bảng
+- Kiểm tra kết quả bằng SELECT và EXEC
 # PHẦN 1: DATABASE + TABLE
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/23f0a877-92c1-4e47-a6b0-158b5f95cd28" />
 Ảnh này cho thấy tôi đã tạo thành công database QuanLyBanHang_K23548010069 và chuyển sang sử dụng database này để thực hiện các bước tiếp theo.
